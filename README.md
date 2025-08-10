@@ -30,8 +30,8 @@ An AI-powered lead acquisition and conversion system that transforms blog reader
 
 1. **Clone and install**
    \`\`\`bash
-   git clone https://github.com/Robin-Rathore/scaler-ai-funnel.git
-   cd scaler-ai-funnel
+   git clone
+   cd ai-funnel
    npm install
    \`\`\`
 
@@ -352,7 +352,7 @@ MIT License - see LICENSE file for details
 For questions or issues:
 
 - Create GitHub issue
-- Email: robinsingh248142@gmail.com
+- Email: adityakumarsingh9031@gmail.com
 - Deployed Link: https://scaler-ai-funnel.vercel.app/
 - Documentation: [Notion Documentation](https://husky-ceiling-603.notion.site/Scaler-AI-Lead-Conversion-Funnel-Complete-Documentation-24a34f63707880bfa351fa52ded8f8ae)
 
