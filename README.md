@@ -1,4 +1,4 @@
-# 🚀 Scaler AI Lead Conversion Funnel
+# 🚀 AI Lead Conversion Funnel
 
 An AI-powered lead acquisition and conversion system that transforms blog readers into consultation bookings through personalized career assessments, intelligent routing, and automated email notifications.
 
